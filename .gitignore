@@ -1,8 +1,0 @@
-dist/
-.next/
-build/
-.env.local
-*.log
-yarn-error.log*
-coverage/
-.cache/
