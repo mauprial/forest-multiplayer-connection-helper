@@ -1,0 +1,11 @@
+# Text file normalization
+# See https://github.com/github/linguist
+# Do not edit manually
+node_modules/* linguist-vendored
+src/**/*.tsx linguist-detectable  
+public/**/*.html linguist-vendored
+*.ts linguist-detectable
+*.png binary 
+package-lock.json linguist-generated
+build/* linguist-vendored
+*.sh text eol=lf
